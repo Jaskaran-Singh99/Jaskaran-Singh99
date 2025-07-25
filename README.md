@@ -30,7 +30,7 @@ Here are a few things I've built recently:
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
 | **Uber Clone** | Ride-booking app with live tracking and Google Maps integration | MERN + Socket.IO + Maps API | [View Site](https://uber-clone-frontend-24jd.onrender.com) |
-| **Zen Chat** | Real-time chat app with file sharing and group chat | MERN + WebSockets + MongoDB | [View Repo](https://github.com/Jaskaran-Singh99/zen-chat) |
+| **Zen Chat** | Real-time chat app with file sharing and group chat | MERN + WebSockets + MongoDB | [View Repo](https://github.com/Jaskaran-Singh99/Zen-chat-final) |
 | **Crypto Tracker** | Track live crypto prices with chart history | React + Chart.js + API | [View Repo](https://github.com/Jaskaran-Singh99/crypto-tracker) |
 
 ---
